@@ -484,7 +484,7 @@ wget -O /bin/auto https://raw.githubusercontent.com/freenetsapinas/mikscripts/ma
 chmod +x /bin/auto
 /bin/auto;
 
-wget https://github.com/freenetsapinas/mikscripts/blob/main/badvpn-udpgw -q
+wget https://raw.githubusercontent.com/freenetsapinas/mikscripts/main/badvpn-udpgw -q
 mv -f badvpn-udpgw /bin/badvpn-udpgw
 chmod 777 /bin/badvpn-udpgw
 
